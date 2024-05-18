@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>image</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 6px;fill: #001c5e;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+	</style>
+	<text id="PRO-MED" style="transform: matrix(1.032,0,0,1.032,0,18.187)" >
+		<tspan x="0" y="0" class="t0">P</tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0">O-MED
+</tspan>
+	</text>
+</svg>
